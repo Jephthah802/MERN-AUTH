@@ -12,7 +12,7 @@ const app = express();
 app.use(
   cors({
     origin: [
-      'https://mern-auth-4hv0owu6a-jephewoh-gmailcoms-projects.vercel.app',
+      'https://mern-auth-olktbuoqa-jephewoh-gmailcoms-projects.vercel.app',
       'https://mern-auth-xezq.onrender.com',
       'https://mern-auth-peach-pi.vercel.app',
       'http://localhost:5173',
